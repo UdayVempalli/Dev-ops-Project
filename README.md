@@ -1,6 +1,6 @@
 # Dev-ops-Project
 
-CI/CD
+CI/CD with aws
 Cloud
 Docker
 Kubernetes
