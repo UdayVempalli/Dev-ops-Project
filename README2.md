@@ -1,7 +1,7 @@
-# 🚀 Set Up Your Web App in the Cloud (Day 1 of this DevOps Challenge)
+# 🚀 Set Up Your Web App in the Cloud 
 
 ## 🎯 Objective
-Ready to set up your web app from scratch? In this step, you're going to:
+
 - Launch an EC2 instance
 - Set up VSCode on your local computer
 - Use Remote - SSH to connect VSCode with your EC2 instance
