@@ -1,4 +1,4 @@
-# Dev-ops-Project
+# DevOps-Project
 
 Building CI/CD pipeline on AWS
   - CodeArtifact
