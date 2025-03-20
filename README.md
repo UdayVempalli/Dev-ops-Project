@@ -1,4 +1,4 @@
-# CI/CD on AWS
+# CI/CD pipeline on AWS
 
 Building CI/CD pipeline on AWS
 
