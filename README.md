@@ -6,5 +6,3 @@ Building CI/CD pipeline on AWS
   - CodeDeploy
   - CloudFormation
   - CodePipeline
-
-<img src="C:/Users/udayv/Downloads/aws-cicd.png" width="300">
