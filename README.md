@@ -1,4 +1,4 @@
-# DevOps-Project-CI/CD Hands-On
+# DevOps-Project-CI/CD HandsOn
 
 Building CI/CD pipeline on AWS
   - CodeArtifact
