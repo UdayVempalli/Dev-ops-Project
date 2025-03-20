@@ -1,4 +1,4 @@
 # Dev-ops-Project
 
-Buildin CI/CD
+Building CI/CD pipeline on aws 
 
