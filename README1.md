@@ -9,7 +9,6 @@ On Day 1, we will set up the foundational infrastructure needed for our DevOps j
 - ✅ Editing code without VS Code to understand the power of IDEs
 
 ## 🔥 Steps to Follow
-
 ### 1️⃣ Launch an EC2 Instance
 1. Log in to [AWS Console](https://aws.amazon.com/).
 2. Navigate to **EC2 > Launch Instance**.
