@@ -9,6 +9,7 @@ phases:
       - echo Initializing environment
       - export CODEARTIFACT_AUTH_TOKEN=`aws codeartifact get-authorization-token --domain nextwork --domain-owner 189958393082 --region us-east-1 --query authorizationToken --output text`
 
+
   build:
     commands:
       - echo Build started on `date`
