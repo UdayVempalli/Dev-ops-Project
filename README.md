@@ -10,4 +10,4 @@ Building CI/CD pipeline on AWS
   - VPC
   - S3 Bucket
 
-![CI/CD Pipeline](<setup/aws-cicd (1).png>)
+![CI/CD Pipeline](setup/architecture-complete.png)
