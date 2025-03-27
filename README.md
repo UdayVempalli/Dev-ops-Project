@@ -12,3 +12,4 @@ Building CI/CD pipeline on AWS
 
 ![CI/CD Pipeline](setup/aws-cicd (1).png)
 
+![CI/CD Pipeline](<aws-cicd (1).png>)
