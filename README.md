@@ -9,3 +9,5 @@ Building CI/CD pipeline on AWS
   - CodePipeline
   - VPC
   - S3 Bucket
+
+![Alt Text](c:\Users\udayv\Downloads\aws-cicd (1).png)
