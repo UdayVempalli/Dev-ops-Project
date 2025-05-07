@@ -1,4 +1,4 @@
-# 🚀 Day 3: Setting Up AWS CodeArtifact
+# Setting Up AWS CodeArtifact
 
 ## 🎯 Objective
 In this project, we'll set up AWS CodeArtifact, a fully managed artifact repository service. We'll use it to store and manage our project's dependencies, ensuring secure and reliable access to Java packages for our web application.
