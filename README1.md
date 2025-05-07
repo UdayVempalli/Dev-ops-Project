@@ -1,4 +1,4 @@
-# 🚀 Day 1: Setting Up an EC2 Instance & Connecting with VS Code
+# 🚀 Setting Up an EC2 Instance & Connecting with VS Code
 
 ## 🎯 Objective
 On Day 1, we will set up the foundational infrastructure needed for our DevOps journey by:
